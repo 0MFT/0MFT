@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a beginner developer passionate about technology and programming. Although I'm at the beginning of my journey, I've already created some interesting tools and I'm always looking for new challenges to expand my knowledge.
+I’m a beginner developer who’s really passionate about technology and programming. Even though I’m still at the start of my journey, I’ve already built some cool tools and I’m always looking for new challenges to push myself further.
 
-- 🔭 Currently working on developing **tweaking and optimization tools**
-- 🌱 Constantly learning new technologies and best practices
-- 💡 I like to experiment and create practical solutions for everyday problems
+- 🔭 Right now, I’m focused on creating tweaking and optimization tools
+- 🌱 I’m always learning and exploring new technologies and best practices
+- 💡 I enjoy experimenting and turning ideas into practical solutions for everyday problems
 
 ## 🛠️ Arsenal 
 

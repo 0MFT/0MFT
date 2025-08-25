@@ -1,5 +1,3 @@
-# 👨‍💻 mft
-
 ## 🚀 about me
 beginner developer passionate about tech. i build tools, explore new ideas, and optimize solutions.
 

@@ -23,5 +23,3 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 > *"the only way to do great work is to love what you do."* – steve jobs
 
 <div align="center">
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1337-brightgreen?style=flat)

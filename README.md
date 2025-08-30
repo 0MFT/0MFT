@@ -21,5 +21,3 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 - [ ] master powershell
 
 > *"the only way to do great work is to love what you do."* – steve jobs
-
-<div align="center">

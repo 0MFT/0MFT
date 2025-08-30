@@ -13,6 +13,7 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&colorA=#00BFFF&colorB=#5391FE)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white&colorA=#8A8A8A&colorB=#4D4D4D)
 
+
 ## 🎯 goals
 - [x] master batch
 - [ ] master c#

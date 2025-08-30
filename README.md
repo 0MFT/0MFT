@@ -24,5 +24,3 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 <div align="center">
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-1337-brightgreen?style=flat)
-![Learning](https://img.shields.io/badge/Status-Learning-blue?style=flat)
-![Passionate](https://img.shields.io/badge/Passion-Technology-red?style=flat)

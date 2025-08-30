@@ -8,10 +8,10 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&labelColor=3776AB)
 
 ### tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white&colorA=#8A2BE2&colorB=#5C2D91)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&colorA=#00FFFF&colorB=#007ACC)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&colorA=#00BFFF&colorB=#5391FE)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white&colorA=#8A8A8A&colorB=#4D4D4D)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 
 
 ## 🎯 goals

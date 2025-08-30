@@ -8,10 +8,10 @@ beginner developer passionate about tech. i build tools, explore new ideas, and 
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&labelColor=3776AB)
 
 ### tools
-![vs](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white&labelColor=5C2D91)
-![vs code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
-![powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white&labelColor=012456)
-![batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white&labelColor=2D2D2D)
+![vs](https://img.shields.io/badge/Visual%20Studio-68217A?style=for-the-badge&logo=visualstudio&logoColor=white)
+![vs code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![powershell](https://img.shields.io/badge/PowerShell-2672EC?style=for-the-badge&logo=powershell&logoColor=white)
+![batch](https://img.shields.io/badge/Batch-1E1E1E?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ## 🎯 goals
 - [x] master batch

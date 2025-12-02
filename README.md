@@ -36,12 +36,12 @@
 
 ### goals & roadmap
 
-| status | technology |
-| :---: | :--- |
-| ✅ | **batch script** |
-| 🔄 | **c# / .net** |
-| 🔄 | **python** |
-| ⏳ | **powershell** |
+| status | tech |
+|:---:|:---|
+| ✅ | batch |
+| 🔄 | c# / .net |
+| 🔄 | python |
+| ⏳ | powershell |
 
   <br/>
 

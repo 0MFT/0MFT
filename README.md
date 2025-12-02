@@ -1,23 +1,63 @@
-## 🚀 about me
-beginner developer passionate about tech. i build tools, explore new ideas, and optimize solutions.
+<div align="center">
 
-## 🛠️ tech stack
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo!;Desenvolvedor+apaixonado+por+tech;Criando+ferramentas+e+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 
-### languages
-![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=512BD4)
-![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&labelColor=3776AB)
+  <br/>
 
-### tools
-![visual studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white&labelColor=8A2BE2)
-![vsv code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=00FFFF)
-![powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white&labelColor=00BFFF)
-![batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white&labelColor=8A8A8A)
+  ### 🚀 Sobre mim
+  <p align="center">
+    Sou um desenvolvedor focado em eficiência e automação. Minha paixão é criar ferramentas, explorar novas ideias e otimizar fluxos de trabalho. Atualmente, estou expandindo meus conhecimentos em C# e Python para construir soluções mais robustas.
+  </p>
 
+  <br/>
 
-## 🎯 goals
-- [x] master batch
-- [ ] master c#
-- [ ] master python
-- [ ] master powershell
+  ---
 
-> *"the only way to do great work is to love what you do."* – steve jobs
+  ### 🛠️ Arsenal Tecnológico
+
+  #### Linguagens
+  <div style="display: inline_block">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img align="center" alt="Batch" src="https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  </div>
+
+  <br/>
+
+  #### Ferramentas & IDEs
+  <div style="display: inline_block">
+    <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img align="center" alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  </div>
+
+  <br/>
+  <br/>
+
+  ---
+
+  ### 📊 Estatísticas
+  
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  </div>
+
+  <br/>
+
+  ---
+
+  ### 🎯 Objetivos & Roadmap
+  
+  | Status | Meta | Foco Atual |
+  | :---: | :--- | :--- |
+  | ✅ | **Masterizar Batch** | Automação de Scripts |
+  | 🔄 | **Masterizar C#** | Desenvolvimento Desktop/Backend |
+  | 🔄 | **Masterizar Python** | Data & Scripting |
+  | ⏳ | **Masterizar PowerShell** | Admin & DevOps |
+
+  <br/>
+
+  > *"The only way to do great work is to love what you do."* > — **Steve Jobs**
+
+</div>

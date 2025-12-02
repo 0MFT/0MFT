@@ -1,38 +1,20 @@
 <div align="center">
 
- <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=24&duration=2500&pause=1000&color=35c7f2&center=true&vCenter=true&width=450&lines=hello%2C+world!;efficient+automation;building+smart+tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=22&duration=2200&pause=800&color=35c7f2&center=true&vCenter=true&width=380&lines=hello%2C+world!;efficient+automation;smart+tools" />
 
-  <br/>
+<br/>
 
-  ### about me
-  <p align="center">
-    i’m a developer focused on efficiency and automation, building practical tools to optimize workflows. currently improving my skills in c# and python.
-  </p>
+### about me
+i’m a developer focused on efficiency and automation, creating simple and effective tools. currently learning c# and python.
 
-  <br/>
+---
 
-  ---
+### tech stack
 
-  ### tech stack
+**c#** · **python** · **batch**  
+**visual studio** · **vs code** · **powershell**
 
-  <div style="display: inline_block">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img align="center" alt="Batch" src="https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  </div>
-
-  <br/>
-
-  <div style="display: inline_block">
-    <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img align="center" alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-  </div>
-
-  <br/>
-  <br/>
-
-  ---
+---
 
 ### goals & roadmap
 
@@ -43,8 +25,9 @@
 | 🔄 | py |
 | ⏳ | ps |
 
-  <br/>
+<br/>
 
-  > *"the only way to do great work is to love what you do."* <br> — **steve jobs**
+> *"the only way to do great work is to love what you do."*  
+> — **steve jobs**
 
 </div>

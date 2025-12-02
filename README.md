@@ -5,7 +5,7 @@
 <br/>
 
 ### about me
-i’m a developer focused on efficiency and automation, creating simple and effective tools. currently learning c# and python.
+i’m a developer focused on efficiency and automation, creating simple and effective tools.
 
 ---
 

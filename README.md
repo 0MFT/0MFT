@@ -4,16 +4,16 @@
 
   <br/>
 
-  ### 🚀 About Me
+  ### 🚀 about me
   <p align="center">
-    I am a developer focused on <b>efficiency and automation</b>. My passion is building tools that solve real-world problems and optimize workflows. Currently, I'm expanding my technical arsenal with C# and Python to build more robust solutions.
+    i’m a developer focused on efficiency and automation, building practical tools to optimize workflows. currently improving my skills in c# and python.
   </p>
 
   <br/>
 
   ---
 
-  ### 🛠️ Tech Stack
+  ### 🛠️ tech stack
 
   <div style="display: inline_block">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,17 +34,17 @@
 
   ---
 
-  ### 🎯 Goals & Roadmap
-  
-  | Status | Technology | Current Focus |
-  | :---: | :--- | :--- |
-  | ✅ | **Batch Script** | Mastered / Automation |
-  | 🔄 | **C# / .NET** | Desktop & Backend Apps |
-  | 🔄 | **Python** | Scripting & Data |
-  | ⏳ | **PowerShell** | Admin & DevOps |
+### 🎯 goals & roadmap
+
+| status | technology |
+| :---: | :--- |
+| ✅ | **batch script** |
+| 🔄 | **c# / .net** |
+| 🔄 | **python** |
+| ⏳ | **powershell** |
 
   <br/>
 
-  > *"The only way to do great work is to love what you do."* <br> — **Steve Jobs**
+  > *"the only way to do great work is to love what you do."* <br> — **steve jobs**
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=22&duration=2200&pause=800&color=35c7f2&center=true&vCenter=true&width=380&lines=hello%2C+world!;efficient+automation;smart+tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=22&duration=2200&pause=800&color=ff3b3b&center=true&vCenter=true&width=380&lines=hello%2C+mft+here;efficient+automation;smart+tools" />
 
 <br/>
 

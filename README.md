@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35C7F2&center=true&vCenter=true&width=450&lines=Hello%2C+World!;Passionate+Tech+Developer;Building+Tools+%26+Solutions" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=24&duration=2500&pause=1000&color=35c7f2&center=true&vCenter=true&width=450&lines=hello%2C+world!;efficient+automation;building+smart+tools" />
 
   <br/>
 
-  ### 🚀 about me
+  ### about me
   <p align="center">
     i’m a developer focused on efficiency and automation, building practical tools to optimize workflows. currently improving my skills in c# and python.
   </p>
@@ -13,7 +13,7 @@
 
   ---
 
-  ### 🛠️ tech stack
+  ### tech stack
 
   <div style="display: inline_block">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,7 +34,7 @@
 
   ---
 
-### 🎯 goals & roadmap
+### goals & roadmap
 
 | status | technology |
 | :---: | :--- |

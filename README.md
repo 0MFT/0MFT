@@ -38,10 +38,10 @@
 
 | status | tech |
 |:---:|:---|
-| ✅ | batch |
-| 🔄 | c# / .net |
-| 🔄 | python |
-| ⏳ | powershell |
+| ✅ | .bat |
+| 🔄 | c# |
+| 🔄 | py |
+| ⏳ | ps |
 
   <br/>
 

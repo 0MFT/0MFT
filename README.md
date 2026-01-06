@@ -38,9 +38,9 @@
 
 <table align="center">
   <tr>
-    <th>Status</th>
-    <th>Tech</th>
-    <th>Current Goal</th>
+    <th>status</th>
+    <th>tech</th>
+    <th>current goal</th>
   </tr>
   <tr>
     <td align="center">🟢</td>
@@ -49,17 +49,17 @@
   </tr>
   <tr>
     <td align="center">🟡</td>
-    <td><b>C#</b></td>
-    <td>high-performance tools & GUIs</td>
+    <td><b>c#</b></td>
+    <td>high-performance tools & guis</td>
   </tr>
   <tr>
     <td align="center">🟡</td>
-    <td><b>Python</b></td>
+    <td><b>python</b></td>
     <td>smart scripts & task orchestration</td>
   </tr>
   <tr>
     <td align="center">🔴</td>
-    <td><b>PowerShell</b></td>
+    <td><b>powershell</b></td>
     <td>deep system & admin scripting</td>
   </tr>
 </table>

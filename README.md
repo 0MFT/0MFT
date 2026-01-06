@@ -1,89 +1,97 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF3B3B&center=true&vCenter=true&width=435&lines=Hello%2C+MFT+Here+👋;Architecting+Efficiency;Mastering+Automation;Building+Smart+Tools" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Efficiency&fontSize=50&fontAlign=50&fontAlignY=35&desc=Building%20Smart%20Automation%20Tools&descAlign=50&descAlignY=55&descSize=20" alt="Header Architecting Efficiency" width="100%"/>
 
   <br/>
 
-  <p align="center">
-    <a href="#about">
-      <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-black?style=for-the-badge&logo=robotframework&logoColor=FF3B3B" />
+  <p>
+    <a href="https://github.com/">
+      <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="#tech">
-      <img src="https://img.shields.io/badge/DEV-TOOLS-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-FF3B3B?style=for-the-badge&logo=robotframework&logoColor=white" alt="Focus Automation Badge"/>
+    <img src="https://img.shields.io/badge/DEV-TOOLS-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Dev Tools Badge"/>
   </p>
 
-  <br/>
-
-  <h3>💻 About Me</h3>
-  <p width="400px">
+  <h3>👨‍💻 About Me</h3>
+  <p width="600px">
     I’m a developer obsessed with <b>efficiency</b>. I transform repetitive tasks into powerful scripts. <br/>
     Currently crafting simple, effective, and high-performance automation tools.
   </p>
 
-  <br/>
+  ---
 
   <h3>🛠️ Tech Stack & Arsenal</h3>
   
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-
-  <br/>
-  <br/>
-
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <table border="0" align="center">
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/><br/>C#
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br/>Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://icons.veryicon.com/png/o/system/system-icon-1/batch-processing-2.png" alt="Batch" width="45" height="45"/><br/>Batch
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="45" height="45"/><br/>PowerShell
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/><br/>Visual Studio
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><br/>VS Code
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/><br/>Git
+      </td>
+      <td align="center" width="120">
         </td>
-        <td>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true" />
-        </td>
-      </tr>
-    </table>
-  </div>
+    </tr>
+  </table>
 
-  <br/>
+  ---
+
+  <h3>📊 GitHub Stats</h3>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" alt="Certifique-se de trocar o nome de usuário no código!" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&theme=radical&hide_border=false&bg_color=0d1117" alt="Certifique-se de trocar o nome de usuário no código!" />
+    </a>
+  </p>
+
+  ---
 
   <h3>🚀 Goals & Roadmap</h3>
-  <table>
+  <table border="0" align="center">
     <thead>
       <tr>
-        <th>Tech</th>
-        <th>Progress</th>
-        <th>Status</th>
+        <th align="left">Tech</th>
+        <th align="center">Progress</th>
+        <th align="left">Status</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><img src="https://img.shields.io/badge/Batch-Scripting-4D4D4D?logo=windows-terminal"/></td>
-        <td><img src="https://progress-bar.dev/100/?scale=100&title=Done&width=100&color=239120&suffix=%"/></td>
+        <td><img src="https://geps.dev/progress/100?color=239120&dangerColor=d9534f&warningColor=f0ad4e" alt="100%"/></td>
         <td>✅ Mastered</td>
       </tr>
       <tr>
         <td><img src="https://img.shields.io/badge/C%23-Development-239120?logo=c-sharp"/></td>
-        <td><img src="https://progress-bar.dev/60/?scale=100&title=Learning&width=100&color=blue&suffix=%"/></td>
+        <td><img src="https://geps.dev/progress/65?color=007ACC&dangerColor=d9534f&warningColor=f0ad4e" alt="65%"/></td>
         <td>🔄 Ongoing</td>
       </tr>
       <tr>
         <td><img src="https://img.shields.io/badge/Python-Automation-3776AB?logo=python"/></td>
-        <td><img src="https://progress-bar.dev/50/?scale=100&title=Learning&width=100&color=blue&suffix=%"/></td>
+        <td><img src="https://geps.dev/progress/50?color=007ACC&dangerColor=d9534f&warningColor=f0ad4e" alt="50%"/></td>
         <td>🔄 Ongoing</td>
       </tr>
       <tr>
         <td><img src="https://img.shields.io/badge/PowerShell-Admin-5391FE?logo=powershell"/></td>
-        <td><img src="https://progress-bar.dev/10/?scale=100&title=Soon&width=100&color=bababa&suffix=%"/></td>
+        <td><img src="https://geps.dev/progress/15?color=bababa&dangerColor=d9534f&warningColor=f0ad4e" alt="15%"/></td>
         <td>⏳ Loading...</td>
       </tr>
     </tbody>
@@ -91,8 +99,8 @@
 
   <br/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&bg_color=0d1117" alt="Quote Steve Jobs" />
+  </p>
   
-  <br/>
-  
-  </div>
+</div>

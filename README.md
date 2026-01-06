@@ -39,23 +39,28 @@
 <table align="center">
   <tr>
     <th>Status</th>
-    <th>Technology</th>
+    <th>Tech</th>
+    <th>Current Goal</th>
   </tr>
   <tr>
-    <td align="center">✅</td>
-    <td>.bat automation</td>
+    <td align="center">🟢</td>
+    <td><b>.bat</b></td>
+    <td>fully automated workflows</td>
   </tr>
   <tr>
-    <td align="center">🔄</td>
-    <td>C# tools & apps</td>
+    <td align="center">🟡</td>
+    <td><b>C#</b></td>
+    <td>high-performance tools & GUIs</td>
   </tr>
   <tr>
-    <td align="center">🔄</td>
-    <td>Python scripting</td>
+    <td align="center">🟡</td>
+    <td><b>Python</b></td>
+    <td>smart scripts & task orchestration</td>
   </tr>
   <tr>
-    <td align="center">⏳</td>
-    <td>PowerShell deep dive</td>
+    <td align="center">🔴</td>
+    <td><b>PowerShell</b></td>
+    <td>deep system & admin scripting</td>
   </tr>
 </table>
 
